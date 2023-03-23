@@ -1,0 +1,12 @@
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\bin\Debug\net6.0\CrudOperations.Models.deps.json
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\bin\Debug\net6.0\CrudOperations.Models.dll
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\bin\Debug\net6.0\CrudOperations.Models.pdb
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\CrudOperations.Models.csproj.AssemblyReference.cache
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\CrudOperations.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\CrudOperations.Models.AssemblyInfoInputs.cache
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\CrudOperations.Models.AssemblyInfo.cs
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\CrudOperations.Models.csproj.CoreCompileInputs.cache
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\CrudOperations.Models.dll
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\refint\CrudOperations.Models.dll
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\CrudOperations.Models.pdb
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Models\obj\Debug\net6.0\ref\CrudOperations.Models.dll

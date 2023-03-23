@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CrudOperations.Interfaces/1.0.0": {
+        "dependencies": {
+          "CrudOperations.Models": "1.0.0"
+        },
+        "runtime": {
+          "CrudOperations.Interfaces.dll": {}
+        }
+      },
+      "CrudOperations.Models/1.0.0": {
+        "runtime": {
+          "CrudOperations.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrudOperations.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrudOperations.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

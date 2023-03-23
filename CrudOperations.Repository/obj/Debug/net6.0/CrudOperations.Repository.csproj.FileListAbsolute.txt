@@ -1,0 +1,17 @@
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\bin\Debug\net6.0\CrudOperations.Repository.deps.json
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\bin\Debug\net6.0\CrudOperations.Repository.runtimeconfig.json
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\bin\Debug\net6.0\CrudOperations.Repository.dll
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\bin\Debug\net6.0\CrudOperations.Repository.pdb
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\bin\Debug\net6.0\CrudOperations.Models.dll
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\bin\Debug\net6.0\CrudOperations.Models.pdb
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.csproj.AssemblyReference.cache
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.AssemblyInfoInputs.cache
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.AssemblyInfo.cs
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.csproj.CoreCompileInputs.cache
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.csproj.CopyComplete
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.dll
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\refint\CrudOperations.Repository.dll
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.pdb
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\CrudOperations.Repository.genruntimeconfig.cache
+C:\Users\bmohan\source\repos\CrudOperations\CrudOperations.Repository\obj\Debug\net6.0\ref\CrudOperations.Repository.dll
