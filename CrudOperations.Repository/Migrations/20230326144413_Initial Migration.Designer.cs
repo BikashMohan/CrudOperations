@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CrudOperations.Repository.Migrations
 {
     [DbContext(typeof(ContactDBcontext))]
-    [Migration("20230317193638_Initial Migration")]
+    [Migration("20230326144413_Initial Migration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
@@ -43,8 +43,9 @@ namespace CrudOperations.Repository.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Phone")
-                        .HasColumnType("int");
+                    b.Property<string>("Phone")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
